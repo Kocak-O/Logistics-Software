@@ -1,7 +1,7 @@
 # Logistics Software
 
 [![Java](https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-blue)]()
-[![Angular](https://img.shields.io/badge/Frontend-Angular-red)]()
+[![React](https://img.shields.io/badge/Frontend-React-red)]()
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-lightblue)]()
 [![License](https://img.shields.io/badge/License-Academic-lightgrey)]()
 
@@ -16,7 +16,7 @@ The user interface was intentionally designed to be simple and minimalistic.
 ---
 
 ## ⚙️ Tech Stack
-- **Frontend:** Angular  
+- **Frontend:** React  
 - **Backend:** Spring Boot (Java)  
 - **Database:** PostgreSQL  
 
@@ -34,7 +34,7 @@ The user interface was intentionally designed to be simple and minimalistic.
 
 ## 🧩 Architecture
 
-Angular (Frontend)
+React (Frontend)
 ↓ REST API / WebSocket
 Spring Boot (Backend)
 ↓
